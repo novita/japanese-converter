@@ -1,0 +1,18 @@
+{
+  "name": "japanese-converter",
+  "main": "./lib/japanese-converter",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "japanese-converter:toggle"
+  },
+  "repository": "https://github.com/novita/japanese-converter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
